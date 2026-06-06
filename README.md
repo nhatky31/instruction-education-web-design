@@ -2,7 +2,7 @@
 
 Dự án thực hành xây dựng giao diện trang web giáo dục (Instruction Education) hiện đại. Điểm nhấn lớn nhất của phiên bản này là việc áp dụng thành thạo Bootstrap 5 và CSS Custom để trang web hiển thị hoàn hảo trên mọi kích thước màn hình (Responsive Design).
 
-🎯 **Live Demo:** (https://github.com/nhatky31/instruction-education-web-design.git)
+🎯 **Live Demo:** (https://github.com/nhatky31/instruction-education-web-design/)
 
 ## 📸 Giao diện dự án
 
