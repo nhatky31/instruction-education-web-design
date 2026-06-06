@@ -9,11 +9,11 @@ Dự án thực hành xây dựng giao diện trang web giáo dục (Instruction
 ### 1. Hiển thị đa thiết bị (Responsive)
 Trang web được tối ưu hóa giao diện cho Mobile, Tablet và Desktop, đảm bảo trải nghiệm người dùng xuyên suốt:
 
-![Responsive View](./img/Screenshot 2026-06-06 171829.png)
+![Responsive View](./img/desktop-view.png)
 
 ### 2. Tổng quan trang web (Desktop View)
 
-![Desktop View](./img/FireShot Capture 010 - Intruction Design - [127.0.0.1].png)
+![Desktop View](./img/responsive-view.png)
 
 ## 🚀 Công nghệ sử dụng
 * **Cấu trúc & Giao diện:** HTML5, CSS3, Bootstrap 5.3.8.
